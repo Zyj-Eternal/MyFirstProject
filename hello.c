@@ -7,8 +7,9 @@
 **/
 #include <stdio.h>
 
-int addNum(int a, int b)
+int jia(int a, int b)
 {
+  printf("this is jia fa.\n");
   return a + b;
 }
 
