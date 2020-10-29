@@ -9,6 +9,7 @@
 
 int jia(int a, int b)
 {
+  printf("this is jia fa.\n");
   return a + b;
 }
 
