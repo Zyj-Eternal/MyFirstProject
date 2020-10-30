@@ -13,6 +13,11 @@ int jia(int a, int b)
   return a + b;
 }
 
+void say()
+{
+  printf("hello world");
+}
+
 int main()
 {
   printf("hello world\n");
