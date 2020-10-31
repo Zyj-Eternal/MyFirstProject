@@ -21,6 +21,7 @@ void say()
 int main()
 {
   printf("hello world\n");
+  printf("##########\n");
 
   return 0;
 }
