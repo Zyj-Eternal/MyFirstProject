@@ -21,6 +21,9 @@ void say()
 int main()
 {
   printf("hello world\n");
+  printf("##########\n");
+
+  printf("what are you doing.\n");
 
   return 0;
 }
